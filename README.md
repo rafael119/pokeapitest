@@ -1,2 +1,0 @@
-# pokeapitest
-Created with CodeSandbox
